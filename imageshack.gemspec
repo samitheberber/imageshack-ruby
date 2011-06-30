@@ -4,7 +4,7 @@ require "imageshack/version"
 
 Gem::Specification.new do |s|
   s.name        = "imageshack"
-  s.version     = Imageshack::VERSION
+  s.version     = ImageShack::VERSION
   s.authors     = ["Sami Saada"]
   s.email       = ["sami.saada@gmail.com"]
   s.homepage    = "https://github.com/samitheberber/imageshack-ruby"

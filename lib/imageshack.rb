@@ -1,5 +1,5 @@
 require "imageshack/version"
 
-module Imageshack
+module ImageShack
   # Your code goes here...
 end
