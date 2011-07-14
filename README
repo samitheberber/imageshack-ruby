@@ -1,0 +1,40 @@
+ImageShack ruby gem
+
+Based on ImageShack HTTP API: http://code.google.com/p/imageshackapi/
+
+
+TODO:
+- Write specs for all features:
+  * Video upload
+  * Image resizing
+  * Slideshow with uploaded images
+  * Slideshow with transloaded images
+  * Slideshow with multiple images
+  * Gallery token support
+  * Gallery creation
+  * Gallery deleting
+  * Image uploading in gallery
+  * Image deleting from gallery
+  * Gallery viewing
+  * Listing all galleries
+- Implement specs for all features
+  * Image upload
+    - Anonymous
+    - Authenticated
+  * Video upload
+  * Image resizing
+  * Slideshow with uploaded images
+  * Slideshow with transloaded images
+  * Slideshow with multiple images
+  * Gallery token support
+  * Gallery creation
+  * Gallery deleting
+  * Image uploading in gallery
+  * Image deleting from gallery
+  * Gallery viewing
+  * Listing all galleries
+- Refactoring, this will be required along the project
+- Update to ruby 1.9.2
+- Write some documentation
+- Make sure that this gem works with CarrierWave (and other fileuploaders like Paperclip)
+- Expand this list, when new things come in mind
